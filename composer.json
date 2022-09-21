@@ -1,6 +1,6 @@
 {
-    "name": "clouding/presto-client-php",
-    "description": "Presto client library for PHP.",
+    "name": "nomecansum/presto-client-php",
+    "description": "Presto client library for PHP. Upgraded guzzle version for test",
     "keywords": ["presto", "http", "library"],
     "type": "library",
     "license": "MIT",
@@ -8,6 +8,10 @@
         {
             "name": "Clouding",
             "email": "ghost0436@gmail.com"
+        },
+        {
+            "name": "Nomecansum (edited)",
+            "email": "nomecansum@gmail.com"
         }
     ],
     "require": {
